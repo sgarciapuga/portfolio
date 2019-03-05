@@ -1,4 +1,9 @@
-# spaintourism
-Foreign Tourism in Spain
+## Data Analyst Portfolio ****BETA****
 
-Study in python about the Tourism from 2001 to 2018
+Repository containing portfolio of data science projects completed by me for self learning purposes. Presented in the form of iPython Notebooks.
+
+
+#Content
+
+
+- Foreign Tourism in Spain: Study in python about the Tourism from 2001 to 2018
