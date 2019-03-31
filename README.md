@@ -11,3 +11,6 @@ Data Visualization:
 
 Data Cleaning:
 - US Census data cleaning exercise at Codecademy
+
+Machine learing
+- titanic
