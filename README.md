@@ -20,3 +20,10 @@ Decision Trees
 
 Linear Regression
 - Yelp Rating Regression Predictor: Codecademy project using a sample data from Yelp to predict the Yelp rating of a restaurant.
+
+Web Scraping and data cleaning:
+- Turtle Shelter: small Codecademy practise where data from a website is converted into a dataframe.
+- Chocolate_scraping: Codecademy project, using Beautiful Soup to build a pandas dataframe from a website with 1700 reviews of cholcate bars.
+
+SQL in Python:
+- Exercise from IBM Cognitive Class, learning how to use SQL with Python.
