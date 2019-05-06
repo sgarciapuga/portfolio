@@ -19,4 +19,4 @@ Decision Trees
 - Find the Flag: Codecademy project using Decision Trees to predict the continent of flags based on features like color and shapes.
 
 Linear Regression
--Yelp Rating Regression Predictor: Codecademy project using a sample data from Yelp to predict the Yelp rating of a restaurant.
+- Yelp Rating Regression Predictor: Codecademy project using a sample data from Yelp to predict the Yelp rating of a restaurant.
