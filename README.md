@@ -7,8 +7,8 @@ Repository containing portfolio of data science projects completed by me for sel
 
 
 Data Visualization:
-- Foreign Tourism in Spain Project: Study in python about the Tourism from 2001 to 2018
-- Coursera: Data Visualization Assignment. Using Matplotlib to visualize Data Science Survey; Folium to visualized in a map the crime in San Francisco
+- [Foreign Tourism in Spain Project](https://github.com/sgarciapuga/portfolio/blob/master/spaintourism/SpainTourism.ipynb): Study in python about the Tourism from 2001 to 2018
+- Coursera: Data Visualization Assignment. Using Matplotlib to visualize [Data Science Survey](https://github.com/sgarciapuga/portfolio/blob/master/Data_Visualization/Survey_Data_Visualization.ipynb); Folium to visualized in a map the [Crime in San Francisco](https://github.com/sgarciapuga/portfolio/blob/master/Data_Visualization/Police_Department_Incidents_-_Previous_Year__2016_.csv)
 
 Machine learning
 - Predict Titanic Survival: Codecademy project using Machine Learning to predict if a passenger survived using Logistic Regression.
