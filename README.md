@@ -8,12 +8,12 @@ Repository containing portfolio of data science projects completed by me for sel
 
 Data Visualization:
 - [Foreign Tourism in Spain Project](https://github.com/sgarciapuga/portfolio/blob/master/spaintourism/SpainTourism.ipynb): Study in python about the Tourism from 2001 to 2018
-- Coursera: Data Visualization Assignment. Using Matplotlib to visualize [Data Science Survey](https://github.com/sgarciapuga/portfolio/blob/master/Data_Visualization/Survey_Data_Visualization.ipynb); Folium to visualized in a map the [Crime in San Francisco](https://github.com/sgarciapuga/portfolio/blob/master/Data_Visualization/Police_Department_Incidents_-_Previous_Year__2016_.csv)
+- Coursera: Data Visualization Assignment. Using Matplotlib to visualize [Data Science Survey](https://github.com/sgarciapuga/portfolio/blob/master/Data_Visualization/Survey_Data_Visualization.ipynb); Folium to visualized in a map the [Crime in San Francisco](https://github.com/sgarciapuga/portfolio/blob/master/Data_Visualization/Survey_Data_Visualization.ipynb)
 
 Machine learning
 - [Predict Titanic Survival](https://github.com/sgarciapuga/portfolio/blob/master/titanic/Titanic.ipynb): Codecademy project using Machine Learning to predict if a passenger survived using Logistic Regression.
 - [Perceptron Logic Gates](https://github.com/sgarciapuga/portfolio/blob/master/Perceptron_Logic_Gates/Perceptron_Logic_Gates.ipynb): Codecademy project using perceptrons to model the fundamental building blocks of computers.
-- [Predicting Income](https://github.com/sgarciapuga/portfolio/blob/master/Predicting_Income_with_Random_Forests/Predicting_Income_Random_Forest.ipynb=: Codecademy project, using random forest to predict whether or not a person makes more than $50,000.
+- [Predicting Income](https://github.com/sgarciapuga/portfolio/blob/master/Predicting_Income_with_Random_Forests/Predicting_Income_Random_Forest.ipynb): Codecademy project, using random forest to predict whether or not a person makes more than $50,000.
 
 Decision Trees
 - [Find the Flag](https://github.com/sgarciapuga/portfolio/blob/master/find_the_flag/Find_The_Flag.ipynb): Codecademy project using Decision Trees to predict the continent of flags based on features like color and shapes.
