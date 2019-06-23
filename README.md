@@ -30,3 +30,6 @@ Web Scraping and data cleaning:
 SQL in Python:
 - Exercise from IBM Cognitive Class, learning how to use [SQL with Python](https://github.com/sgarciapuga/portfolio/blob/master/SQL_Python/DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb).
 - [SQL World Population](https://github.com/sgarciapuga/portfolio/blob/master/World_Population_SQL_Practice/SQL%20World%20Population.ipynb): Codecademy SQL Project.
+
+Using definitions:
+- Codecademy project Games of Changes: Flip the coin, [Cho-han](https://en.wikipedia.org/wiki/Ch%C5%8D-han), Cards and [Roulett](https://en.wikipedia.org/wiki/Roulette) Games. Create the games from scratch and test it with some examples.
