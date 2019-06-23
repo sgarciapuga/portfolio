@@ -32,4 +32,4 @@ SQL in Python:
 - [SQL World Population](https://github.com/sgarciapuga/portfolio/blob/master/World_Population_SQL_Practice/SQL%20World%20Population.ipynb): Codecademy SQL Project.
 
 Using definitions:
-- Codecademy project Games of Changes: Flip the coin, [Cho-han](https://en.wikipedia.org/wiki/Ch%C5%8D-han), Cards and [Roulett](https://en.wikipedia.org/wiki/Roulette) Games. Create the games from scratch and test it with some examples.
+- Codecademy project [Games of Changes](https://github.com/sgarciapuga/portfolio/blob/master/Games_Of_Chance/Games%20of%20Chance.ipynb): Flip the coin, [Cho-han](https://en.wikipedia.org/wiki/Ch%C5%8D-han), Cards and [Roulett](https://en.wikipedia.org/wiki/Roulette) Games. Creating the games from scratch and testing them with some examples.
